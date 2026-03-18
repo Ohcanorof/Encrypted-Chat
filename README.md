@@ -1,5 +1,7 @@
 # Encrypted Chat Research Project
 
+Design document: [DESIGN.md](DESIGN.md)
+
 ## Overview
 This project aims to build a Python-based end-to-end encrypted (E2EE) 1-to-1 chat application where an untrusted relay server forwards messages but never sees plaintext. All encryption and decryption happens on the client.
 
